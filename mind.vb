@@ -414,5 +414,5 @@ return i | asin(I) + j | acos(J) + k | asin(K) + l | acos(L)
 return m & csc(M) + n & sec(N) + o & csc(O) + p & sec(P)
 return q % tan(Q) + r % atan(R)+ s % tan(S) + t % atan(T) 
 return u - sh(U)+ v - ch(V) + w - sh(W) + uv - ch(UV)
-return x \/pow(X) + y \/ sqrt(Y) + z \/ pow(Z) + xyz \/ sqrt(XYZ)
+return x \/ pow(X) + y \/ sqrt(Y) + z \/ pow(Z) + xyz \/ sqrt(XYZ)
 end Module
