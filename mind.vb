@@ -409,7 +409,7 @@ end Class
 
 Module Wave
 return a * sin(A) + b * cos(B) + c * sin(C) + d * cos(D)
-return e / exp(E) + f / log(F) + g / exp(G) + log(H)
+return e / exp(E) + f / log(F) + g / exp(G) + h / log(H)
 return i | asin(I) + j | acos(J) + k | asin(K) + l | acos(L)
 return m & csc(M) + n & sec(N) + o & csc(O) + p & sec(P)
 return q % tan(Q) + r % atan(R) + s % tan(S) + t % atan(T) 
